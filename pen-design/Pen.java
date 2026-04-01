@@ -1,4 +1,4 @@
-// Default package used so VSCode Run button works
+
 
 /*
  * The Pen base class provides standard functionality that all pens share.
@@ -59,4 +59,4 @@ public abstract class Pen implements Writable {
     public String getColour() {
         return colour;
     }
-}
+}

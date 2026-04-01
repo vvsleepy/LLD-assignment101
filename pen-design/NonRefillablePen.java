@@ -1,4 +1,4 @@
-// Default package used so VSCode Run button works
+
 
 public class NonRefillablePen extends Pen {
 

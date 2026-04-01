@@ -1,4 +1,3 @@
-// Default package used so VSCode Run button works
 
 // This strategy handles the varying start and close behaviors
 // like taking a cap off or clicking a button.
